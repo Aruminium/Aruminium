@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there こんにちは👋
 
 <p align="left"> 
   <a href="https://github.com/Aruminium/Aruminium">
@@ -19,12 +19,19 @@
 [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+### 📘 成果物-Deliverable
+<p>
+  <div>
+    <h4>１．(C言語)ローグライクゲーム</h4>
+    <video src="https://user-images.githubusercontent.com/73931800/159124038-378053b8-fd02-47fe-9ad2-0f5bb71368b1.mp4">
+  </div>
+</p>
 <!--
 **Aruminium/Aruminium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+📘 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
