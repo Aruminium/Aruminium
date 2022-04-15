@@ -19,6 +19,11 @@
 [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+### 📄 LT資料-LT Materials
+<ul>
+  <li><a href="https://speakerdeck.com/aruminium/sapporo-web-lt" rel="noopener noreferrer">とあるWeb開発初心者がハッカソンで覚醒した件</a></li>
+</ul>
+
 ### 📘 成果物-Deliverable
 <p>
   <div>
