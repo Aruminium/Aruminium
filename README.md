@@ -21,7 +21,7 @@
 
 ### 📄 LT資料-LT Materials
 <ul>
-  <li><a href="https://speakerdeck.com/aruminium/sapporo-web-lt" rel="noopener noreferrer">とあるWeb開発初心者がハッカソンで覚醒した件</a></li>
+  <li><a href="https://speakerdeck.com/aruminium/sapporo-web-lt" rel="noopener noreferrer" target="_blank">とあるWeb開発初心者がハッカソンで覚醒した件</a></li>
 </ul>
 
 ### 📘 成果物-Deliverable
