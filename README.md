@@ -25,12 +25,14 @@
 </ul>
 
 ### 📘 成果物-Deliverable
-<p>
-  <div>
-    <h4>１．(C言語)ローグライクゲーム</h4>
-    <video src="https://user-images.githubusercontent.com/73931800/159124038-378053b8-fd02-47fe-9ad2-0f5bb71368b1.mp4">
-  </div>
-</p>
+<ol>
+  <li>
+    <div>
+      <a href="https://github.com/Aruminium/TMToB" rel="noopener noreferrer" target="_blank">(C言語)ローグライクゲーム</a>
+      <video src="https://user-images.githubusercontent.com/73931800/159124038-378053b8-fd02-47fe-9ad2-0f5bb71368b1.mp4">
+    </div>
+  </li>
+</ol>
 <!--
 **Aruminium/Aruminium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
