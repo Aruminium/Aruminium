@@ -1,5 +1,8 @@
 ### Hi there こんにちは👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruminium)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="left"> 
   <a href="https://github.com/Aruminium/Aruminium">
     <img src="https://komarev.com/ghpvc/?username=Aruminium" alt="Aruminium" />
