@@ -1,8 +1,5 @@
 ### Hi there こんにちは👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruminium)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p align="left"> 
   <a href="https://github.com/Aruminium/Aruminium">
     <img src="https://komarev.com/ghpvc/?username=Aruminium" alt="Aruminium" />
@@ -17,6 +14,8 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Bana7/contributions.svg" />
   </a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruminium&show_icons=true&theme=solarized-dark)
 
 [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
