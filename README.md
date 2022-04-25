@@ -23,7 +23,7 @@
 
 ### 📄 LT資料-LT Materials
 <ul>
-  <li><a href="https://speakerdeck.com/aruminium/sapporo-web-lt" rel="noopener noreferrer" target="_blank">とあるWeb開発初心者がハッカソンで覚醒した件</a></li>
+  <li><a href="https://speakerdeck.com/aruminium/toaruwebkai-fa-chu-xin-zhe-gahatukasondejue-xing-sitajian" rel="noopener noreferrer" target="_blank">とあるWeb開発初心者がハッカソンで覚醒した件</a></li>
   <li><a href="https://speakerdeck.com/aruminium/hazimetefalsehatukasonfa-biao-suraido?slide=13" rel="noopener noreferrer" target="_blank">【オンライン開発合宿vol.1】「はじめてのハッカソン」
 2022/04/24で発表したスライド</a></li>
 </ul>
