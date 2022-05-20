@@ -28,6 +28,11 @@
 2022/04/24で発表したスライド</a></li>
 </ul>
 
+### ハンズオン資料
+<ul>
+  <li><a href="https://aruminium.github.io/codelab_Materials/#0" rel="noopener noreferrer" target="_blank">初めてのチーム開発</a></li>
+</ul>
+
 ### 📘 成果物-Deliverable
 <ol>
   <li>
