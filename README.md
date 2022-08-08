@@ -51,6 +51,7 @@
   <li>
     <div>
       <a href="https://github.com/Aruminium/Java_Python_Linbot_Starters_kit" rel="noopener noreferrer" target="_blank">DockerによるJavaとPythonのLineBotスターターキット</a>
+      <img    alt="スクリーンショット 2022-08-08 21 20 30" src="https://user-images.githubusercontent.com/73931800/183416524-841a6afd-93d6-4d56-955e-363d76efe707.png">
     </div>
   </li>
 </ol>
