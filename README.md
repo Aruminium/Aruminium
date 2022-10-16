@@ -27,6 +27,7 @@
   <li><a href="https://speakerdeck.com/aruminium/hazimetefalsehatukasonfa-biao-suraido?slide=13" rel="noopener noreferrer" target="_blank">【オンライン開発合宿vol.1】「はじめてのハッカソン」
 2022/04/24で発表したスライド</a></li>
   <li><a href="https://docs.google.com/presentation/d/1jdkZTKZKxQ2fCQItuCU8SCTCZC8eKN3iwBKqfwlsJ2E/edit?usp=sharing" rel="noopener noreferrer" target="_blank">【オンライン開発合宿vol.4】「ずんだもん」としりとりなのだ！</li>
+  <li><a href="https://docs.google.com/presentation/d/1ETWvDSZCc-S0Xaw2k9wx9jcZ4WAOnBbRwoMejAQxvsY/edit">ずんだもんと”しりとり”ができるらしい</a></li>
 </ul>
 
 ### ハンズオン資料
