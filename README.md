@@ -28,6 +28,7 @@
 2022/04/24で発表したスライド</a></li>
   <li><a href="https://docs.google.com/presentation/d/1jdkZTKZKxQ2fCQItuCU8SCTCZC8eKN3iwBKqfwlsJ2E/edit?usp=sharing" rel="noopener noreferrer" target="_blank">【オンライン開発合宿vol.4】「ずんだもん」としりとりなのだ！</li>
   <li><a href="https://docs.google.com/presentation/d/1ETWvDSZCc-S0Xaw2k9wx9jcZ4WAOnBbRwoMejAQxvsY/edit">ずんだもんと”しりとり”ができるらしい</a></li>
+  <li><a href="https://docs.google.com/presentation/d/1m1VtzQ6ijiTSs1Zv8q9SaUjl5941Cpi1mAGnQM-DeO4/edit#slide=id.p">【偏見だらけ】LT資料の作り方</a></li>
 </ul>
 
 ### ハンズオン資料
