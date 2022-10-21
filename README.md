@@ -57,6 +57,12 @@
       <img    alt="スクリーンショット 2022-08-08 21 20 30" src="https://user-images.githubusercontent.com/73931800/183416524-841a6afd-93d6-4d56-955e-363d76efe707.png">
     </div>
   </li>
+  <li>
+    <div>
+      <a href="https://github.com/Aruminium/zundamon-siritori" rel="noopener noreferrer" target="_blank">ずんだもんしりとり</a>
+      <img alt="ずんだもんしりとり" src="https://user-images.githubusercontent.com/73931800/189838994-83fc6396-efb8-43da-a5dc-354c4abfbfc4.png">
+    </div>
+  </li>
 </ol>
 
 
