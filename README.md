@@ -39,6 +39,11 @@
   <li><a href="https://aruminium.github.io/SPSS2022/" rel="noopener noreferrer" target="_blank">SPSS2022(勉強会資料)</a></li>
 </ul>
 
+### その他
+<ul>
+  <li><a href="https://github.com/Aruminium/ProjectMember2022-Lecture7" rel="noopener noreferrer" target="_blank">【Java】プロメン用最終問題</a></li>
+</ul>
+
 ### 📘 成果物-Deliverable
 
 <table>
