@@ -21,7 +21,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aruminium&show_icons=true&theme=solarized-dark" alt="Anurag's GitHub stats" width="49%"/>
 </p>
 
-
+### ポートフォリオ
+<a href="https://resplendent-lollipop-97ca22.netlify.app/" rel="noopener noreferrer" target="_blank">ポートフォリオ</a>
 
 ### 📄 LT資料-LT Materials
 <ul>
