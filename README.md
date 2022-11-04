@@ -98,6 +98,20 @@
       <img alt="ずんだもんしりとり" src="https://user-images.githubusercontent.com/73931800/189838994-83fc6396-efb8-43da-a5dc-354c4abfbfc4.png">
     </td>
   </tr>
+  
+    <!-- 5行目 -->
+  <tr>
+    <th>
+      <a href="https://github.com/Aruminium/portfolio" rel="noopener noreferrer" target="_blank">
+        ポートフォリオ(ソースコード)
+      </a>
+    </th>
+    <td>
+      <a href="https://resplendent-lollipop-97ca22.netlify.app/" rel="noopener noreferrer" target="_blank">
+        <img alt="ポートフォリオ" src="https://user-images.githubusercontent.com/73931800/200014227-9fbf434a-1c73-4fe4-a8c6-38a0854582ac.png">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
