@@ -112,6 +112,18 @@
       </a>
     </td>
   </tr>
+  
+  <!-- 6行目 -->
+  <tr>
+    <th>
+      <a href="https://github.com/Aruminium/siritori" rel="noopener noreferrer" target="_blank">
+        しりとりAPI
+      </a>
+    </th>
+    <td>
+      <img width="607" alt="siritoriAPI" src="https://user-images.githubusercontent.com/73931800/213837398-6588bb11-4ada-4515-addf-f43eff925416.png">
+    </td>
+  </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
