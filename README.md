@@ -124,6 +124,18 @@
       <img width="607" alt="siritoriAPI" src="https://user-images.githubusercontent.com/73931800/213837398-6588bb11-4ada-4515-addf-f43eff925416.png">
     </td>
   </tr>
+  
+    <!-- 7行目 -->
+  <tr>
+    <th>
+      <a href="https://github.com/Aruminium/emotional-analysis-api" rel="noopener noreferrer" target="_blank">
+        感情分析API
+      </a>
+    </th>
+    <td>
+      <img width="607" alt="siritoriAPI" src="https://user-images.githubusercontent.com/73931800/215284437-048404f0-58bf-483c-a4bf-8ee80c099ce3.png">
+    </td>
+  </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/Aruminium/Aruminium/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
